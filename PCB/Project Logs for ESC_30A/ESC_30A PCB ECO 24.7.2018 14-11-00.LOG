@@ -1,0 +1,18 @@
+Added Component: Designator=R23(R0805(2012))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R24(R0805(2012))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VDD Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=VDD Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=+5V Pin=R23-2
+Added Pin To Net: NetName=+5V Pin=R24-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R23-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=R24-1
+Added Net: Name=NetQ2_2
+Added Member To Class: ClassName=ESC_30A Member=Component R23 0R22
+Added Member To Class: ClassName=ESC_30A Member=Component R24 0R22

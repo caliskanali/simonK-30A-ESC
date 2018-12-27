@@ -1,0 +1,117 @@
+Added Component: Designator=Q7(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DepoStok"; Value = "44.00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK1"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK2"; Value = "17A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "D-PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marka_1"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelNo_1"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montaj"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ort_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sinif"; Value = "TRANS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stok Kodu"; Value = "266751"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipi"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q8(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DepoStok"; Value = "44.00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK1"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK2"; Value = "17A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "D-PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marka_1"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelNo_1"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montaj"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ort_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sinif"; Value = "TRANS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stok Kodu"; Value = "266751"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipi"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q9(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DepoStok"; Value = "44.00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK1"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK2"; Value = "17A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "D-PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marka_1"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelNo_1"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montaj"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ort_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sinif"; Value = "TRANS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stok Kodu"; Value = "266751"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipi"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q10(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DepoStok"; Value = "44.00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK1"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK2"; Value = "17A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "D-PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marka_1"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelNo_1"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montaj"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ort_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sinif"; Value = "TRANS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stok Kodu"; Value = "266751"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipi"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q11(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DepoStok"; Value = "44.00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK1"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK2"; Value = "17A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "D-PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marka_1"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelNo_1"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montaj"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ort_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sinif"; Value = "TRANS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stok Kodu"; Value = "266751"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipi"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Added Component: Designator=Q12(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DepoStok"; Value = "44.00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK1"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EK2"; Value = "17A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kilif"; Value = "D-PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marka_1"; Value = "DIODES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelNo_1"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Montaj"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ort_Fiyat"; Value = "1.488"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sinif"; Value = "TRANS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stok Kodu"; Value = "266751"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tipi"; Value = "N-MOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "DMN10H099SK3-13"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ7_3 Pin=Q7-3
+Added Pin To Net: NetName=NetQ7_3 Pin=Q8-2
+Added Net: Name=NetQ7_3
+Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
+Added Pin To Net: NetName=NetQ9_3 Pin=Q10-2
+Added Net: Name=NetQ9_3
+Added Pin To Net: NetName=NetQ11_3 Pin=Q11-3
+Added Pin To Net: NetName=NetQ11_3 Pin=Q12-2
+Added Net: Name=NetQ11_3
+Added Member To Class: ClassName=ESC_30A Member=Component Q7 M3016D
+Added Member To Class: ClassName=ESC_30A Member=Component Q8 M3016D
+Added Member To Class: ClassName=ESC_30A Member=Component Q9 M3016D
+Added Member To Class: ClassName=ESC_30A Member=Component Q10 M3016D
+Added Member To Class: ClassName=ESC_30A Member=Component Q11 M3016D
+Added Member To Class: ClassName=ESC_30A Member=Component Q12 M3016D

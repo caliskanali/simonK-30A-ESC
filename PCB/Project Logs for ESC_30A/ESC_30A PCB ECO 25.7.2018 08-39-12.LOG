@@ -1,0 +1,6 @@
+Added Component: Designator=R25(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R26(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=ESC_30A Member=Component R25 10K
+Added Member To Class: ClassName=ESC_30A Member=Component R26 10K

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+5V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=VDD Pin=C11-2
+Added Pin To Net: NetName=VDD Pin=Q3-3
+Added Pin To Net: NetName=5V Pin=C12-2
+Added Pin To Net: NetName=5V Pin=C13-2
+Added Pin To Net: NetName=5V Pin=Q3-1
+Added Net: Name=5V

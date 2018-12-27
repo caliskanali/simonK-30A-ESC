@@ -1,0 +1,50 @@
+Change Component Comment : Designator=C1 Old Comment=1.5nF New Comment=1nF
+Change Component Comment : Designator=C6 Old Comment=1.5nF New Comment=1nF
+Change Component Comment : Designator=C8 Old Comment=1.5nF New Comment=1nF
+Added Component: Designator=C9(C0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C10(C0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R22(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V Pin=C10-2
+Added Pin To Net: NetName=+5V Pin=P2-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=GND Pin=Q10-3
+Added Pin To Net: NetName=GND Pin=Q12-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R22-1
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R22-2
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R7-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R8-2
+Added Net: Name=NetQ8_1
+Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
+Added Pin To Net: NetName=NetQ9_1 Pin=R9-2
+Added Net: Name=NetQ9_1
+Added Pin To Net: NetName=NetQ10_1 Pin=Q10-1
+Added Pin To Net: NetName=NetQ10_1 Pin=R10-2
+Added Net: Name=NetQ10_1
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=R11-2
+Added Net: Name=NetQ11_1
+Added Pin To Net: NetName=NetQ12_1 Pin=Q12-1
+Added Pin To Net: NetName=NetQ12_1 Pin=R12-2
+Added Net: Name=NetQ12_1
+Added Pin To Net: NetName=VDD Pin=Q7-2
+Added Pin To Net: NetName=VDD Pin=Q9-2
+Added Pin To Net: NetName=VDD Pin=Q11-2
+Added Net: Name=VDD
+Added Member To Class: ClassName=ESC_30A Member=Component C9 470pF
+Added Member To Class: ClassName=ESC_30A Member=Component C10 100nF
+Added Member To Class: ClassName=ESC_30A Member=Component R22 220R

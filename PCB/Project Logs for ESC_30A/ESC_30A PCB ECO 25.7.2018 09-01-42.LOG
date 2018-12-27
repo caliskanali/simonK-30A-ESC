@@ -1,0 +1,16 @@
+Added Component: Designator=C14(C0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R27(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R28(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=R28-1
+Added Pin To Net: NetName=ADC2 Pin=C14-2
+Added Pin To Net: NetName=ADC2 Pin=R27-1
+Added Pin To Net: NetName=ADC2 Pin=R28-2
+Added Pin To Net: NetName=ADC2 Pin=U1-25
+Added Net: Name=ADC2
+Added Member To Class: ClassName=ESC_30A Member=Component C14 100nF
+Added Member To Class: ClassName=ESC_30A Member=Component R27 220K
+Added Member To Class: ClassName=ESC_30A Member=Component R28 51K

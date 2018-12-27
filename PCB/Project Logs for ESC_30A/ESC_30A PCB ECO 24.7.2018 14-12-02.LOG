@@ -1,0 +1,12 @@
+Added Component: Designator=Q1(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VDD Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=VDD Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Member To Class: ClassName=ESC_30A Member=Component Q1 L78M05CDT
+Added Member To Class: ClassName=ESC_30A Member=Component Q2 L78M05CDT

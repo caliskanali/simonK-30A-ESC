@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=PHASE_A Pin=R15-1
+Added Pin To Net: NetName=PHASE_B Pin=R18-1
+Added Pin To Net: NetName=PHASE_C Pin=R21-1
+Added Member To Class: ClassName=ESC_30A Member=Component P2 CONTROL

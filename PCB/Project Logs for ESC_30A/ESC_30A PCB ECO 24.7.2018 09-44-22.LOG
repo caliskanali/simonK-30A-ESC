@@ -1,0 +1,9 @@
+Added Component: Designator=Q1(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(DPAK229P1010X238-3N)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(SOT89-150P409X160-3N)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=ESC_30A Member=Component Q1 L78M05CDT
+Added Member To Class: ClassName=ESC_30A Member=Component Q2 L78M05CDT
+Added Member To Class: ClassName=ESC_30A Member=Component Q3 L78L05ABUTR

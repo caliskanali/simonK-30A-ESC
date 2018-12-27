@@ -1,0 +1,27 @@
+Added Component: Designator=R13(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R14(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R15(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R16(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R17(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R18(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R19(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R20(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Component: Designator=R21(R0603(1608))
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=ESC_30A Member=Component R13 3K3
+Added Member To Class: ClassName=ESC_30A Member=Component R14 3K3
+Added Member To Class: ClassName=ESC_30A Member=Component R15 18K
+Added Member To Class: ClassName=ESC_30A Member=Component R16 3K3
+Added Member To Class: ClassName=ESC_30A Member=Component R17 3K3
+Added Member To Class: ClassName=ESC_30A Member=Component R18 18K
+Added Member To Class: ClassName=ESC_30A Member=Component R19 3K3
+Added Member To Class: ClassName=ESC_30A Member=Component R20 3K3
+Added Member To Class: ClassName=ESC_30A Member=Component R21 18K

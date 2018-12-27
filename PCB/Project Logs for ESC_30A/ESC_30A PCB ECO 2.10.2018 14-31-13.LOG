@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PHASE_A Pin=C1-1
+Removed Pin From Net: NetName=PHASE_B Pin=C1-2
+Removed Pin From Net: NetName=PHASE_A Pin=C6-1
+Removed Pin From Net: NetName=PHASE_C Pin=C6-2
+Removed Pin From Net: NetName=PHASE_B Pin=C8-1
+Removed Pin From Net: NetName=PHASE_C Pin=C8-2
+Added Pin To Net: NetName=NetR13_2 Pin=C1-1
+Added Pin To Net: NetName=NetR16_2 Pin=C1-2
+Added Pin To Net: NetName=NetR13_2 Pin=C6-1
+Added Pin To Net: NetName=NetR19_2 Pin=C6-2
+Added Pin To Net: NetName=NetR16_2 Pin=C8-1
+Added Pin To Net: NetName=NetR19_2 Pin=C8-2
+Added Pin To Net: NetName=NetR19_2 Pin=U1-19
+Added Pin To Net: NetName=NetR16_2 Pin=U1-22
+Added Pin To Net: NetName=NetR13_2 Pin=U1-23
+Change Net Name : Old Net Name=NetR13_2 New Net Name=SENSE_A
+Change Net Name : Old Net Name=NetR16_2 New Net Name=SENSE_B
+Change Net Name : Old Net Name=NetR19_2 New Net Name=SENSE_C

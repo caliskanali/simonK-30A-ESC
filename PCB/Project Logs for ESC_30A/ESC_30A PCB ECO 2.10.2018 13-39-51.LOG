@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CENTER Pin=R15-2
+Removed Pin From Net: NetName=CENTER Pin=R18-2
+Removed Pin From Net: NetName=CENTER Pin=R21-2
+Added Pin To Net: NetName=CENTER Pin=R13-1
+Added Pin To Net: NetName=CENTER Pin=R16-1
+Added Pin To Net: NetName=CENTER Pin=R19-1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Pin To Net: NetName=NetR13_2 Pin=R14-2
+Added Pin To Net: NetName=NetR13_2 Pin=R15-2
+Added Net: Name=NetR13_2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=R17-2
+Added Pin To Net: NetName=NetR16_2 Pin=R18-2
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=R20-2
+Added Pin To Net: NetName=NetR19_2 Pin=R21-2
+Added Net: Name=NetR19_2

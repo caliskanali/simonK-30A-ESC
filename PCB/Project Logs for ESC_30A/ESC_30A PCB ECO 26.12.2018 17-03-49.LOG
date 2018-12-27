@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=C+ Pin=R1-1
+Removed Pin From Net: NetName=A+ Pin=R5-1
+Removed Pin From Net: NetName=C- Pin=R8-1
+Removed Pin From Net: NetName=A- Pin=R12-1
+Removed Pin From Net: NetName=PHASE_A Pin=R15-1
+Removed Pin From Net: NetName=PHASE_C Pin=R21-1
+Removed Pin From Net: NetName=A- Pin=R26-1
+Removed Pin From Net: NetName=C- Pin=R31-1
+Added Pin To Net: NetName=A+ Pin=R1-1
+Added Pin To Net: NetName=C+ Pin=R5-1
+Added Pin To Net: NetName=A- Pin=R8-1
+Added Pin To Net: NetName=C- Pin=R12-1
+Added Pin To Net: NetName=PHASE_C Pin=R15-1
+Added Pin To Net: NetName=PHASE_A Pin=R21-1
+Added Pin To Net: NetName=C- Pin=R26-1
+Added Pin To Net: NetName=A- Pin=R31-1
+Change Net Name : Old Net Name=PHASE_A New Net Name=PHASE_C
+Change Net Name : Old Net Name=PHASE_C New Net Name=PHASE_A

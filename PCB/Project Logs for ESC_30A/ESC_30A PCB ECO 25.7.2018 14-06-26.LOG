@@ -1,0 +1,12 @@
+Change Component Comment : Designator=RT1 Old Comment=NTC New Comment=10K_NTC
+Added Pin To Net: NetName=PHASE_C Pin=C2-1
+Added Pin To Net: NetName=PHASE_B Pin=C3-1
+Added Pin To Net: NetName=PHASE_A Pin=C4-1
+Added Pin To Net: NetName=RESET Pin=P1-1
+Added Pin To Net: NetName=+5V Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=MISO Pin=P1-5
+Added Pin To Net: NetName=+5V Pin=U1-20
+Added Pin To Net: NetName=SCK Pin=P1-4
+Added Pin To Net: NetName=SCK Pin=U1-17
+Added Net: Name=SCK

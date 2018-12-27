@@ -1,0 +1,42 @@
+Added Pin To Net: NetName=VBAT Pin=D1-2
+Added Pin To Net: NetName=VBAT Pin=D2-2
+Added Pin To Net: NetName=VBAT Pin=D3-2
+Added Pin To Net: NetName=NetQ4_3 Pin=R7-1
+Added Pin To Net: NetName=NetQ5_3 Pin=R9-1
+Added Pin To Net: NetName=NetQ6_3 Pin=R11-1
+Change Net Name : Old Net Name=NetQ7_3 New Net Name=PHASE_C
+Change Net Name : Old Net Name=NetQ9_3 New Net Name=PHASE_B
+Change Net Name : Old Net Name=NetQ11_3 New Net Name=PHASE_A
+Change Net Name : Old Net Name=NetR30_1 New Net Name=RESET
+Change Net Name : Old Net Name=SENSE-X New Net Name=CENTER
+Added Pin To Net: NetName=A+ Pin=R5-1
+Added Pin To Net: NetName=A+ Pin=U1-2
+Added Net: Name=A+
+Added Pin To Net: NetName=A- Pin=R12-1
+Added Pin To Net: NetName=A- Pin=R26-1
+Added Pin To Net: NetName=A- Pin=U1-12
+Added Net: Name=A-
+Added Pin To Net: NetName=B+ Pin=R3-1
+Added Pin To Net: NetName=B+ Pin=U1-28
+Added Net: Name=B+
+Added Pin To Net: NetName=B- Pin=R10-1
+Added Pin To Net: NetName=B- Pin=R25-1
+Added Pin To Net: NetName=B- Pin=U1-27
+Added Net: Name=B-
+Added Pin To Net: NetName=C+ Pin=R1-1
+Added Pin To Net: NetName=C+ Pin=U1-26
+Added Net: Name=C+
+Added Pin To Net: NetName=C- Pin=R8-1
+Added Pin To Net: NetName=C- Pin=R31-1
+Added Pin To Net: NetName=C- Pin=U1-9
+Added Net: Name=C-
+Added Pin To Net: NetName=MISO Pin=U1-16
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=P1-6
+Added Pin To Net: NetName=MOSI Pin=U1-15
+Added Net: Name=MOSI
+Added Pin To Net: NetName=PWM_IN Pin=C9-2
+Added Pin To Net: NetName=PWM_IN Pin=R22-1
+Added Pin To Net: NetName=PWM_IN Pin=U1-30
+Added Pin To Net: NetName=PWM_IN Pin=U1-32
+Added Net: Name=PWM_IN

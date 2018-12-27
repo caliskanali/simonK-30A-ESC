@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=D1-2
+Removed Pin From Net: NetName=NetC3_2 Pin=D2-2
+Removed Pin From Net: NetName=NetC4_2 Pin=D3-2
+Removed Member From Class: ClassName=ESC_30A Member=D?
+Change Component Footprint: Designator=D1 Old Footprint=SOD-123 New Footprint=DIOMELF3515N
+Change Component Footprint: Designator=D2 Old Footprint=SOD-123 New Footprint=DIOMELF3515N
+Change Component Footprint: Designator=D3 Old Footprint=SOD-123 New Footprint=DIOMELF3515N
+Added Pin To Net: NetName=NetC2_2 Pin=D1-1
+Added Pin To Net: NetName=NetC3_2 Pin=D2-1
+Added Pin To Net: NetName=NetC4_2 Pin=D3-1

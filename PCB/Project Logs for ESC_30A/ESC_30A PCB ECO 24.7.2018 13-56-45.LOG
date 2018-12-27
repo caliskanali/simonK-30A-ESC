@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=VDD Pin=R13-2
+Added Pin To Net: NetName=VDD Pin=R16-2
+Added Pin To Net: NetName=VDD Pin=R19-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=R14-2
+Added Pin To Net: NetName=NetR13_1 Pin=R15-2
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=R17-2
+Added Pin To Net: NetName=NetR16_1 Pin=R18-2
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=R20-2
+Added Pin To Net: NetName=NetR19_1 Pin=R21-2
+Added Net: Name=NetR19_1

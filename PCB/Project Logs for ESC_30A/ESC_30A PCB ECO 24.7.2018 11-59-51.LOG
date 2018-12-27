@@ -1,0 +1,24 @@
+Added Component: Designator=C1(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C2(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C3(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C6(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C7(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Component: Designator=C8(C1206(3216))
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=ESC_30A Member=Component C1 1.5nF
+Added Member To Class: ClassName=ESC_30A Member=Component C2 5uF
+Added Member To Class: ClassName=ESC_30A Member=Component C3 5uF
+Added Member To Class: ClassName=ESC_30A Member=Component C4 5uF
+Added Member To Class: ClassName=ESC_30A Member=Component C5 5uF
+Added Member To Class: ClassName=ESC_30A Member=Component C6 1.5nF
+Added Member To Class: ClassName=ESC_30A Member=Component C7 5uF
+Added Member To Class: ClassName=ESC_30A Member=Component C8 1.5nF

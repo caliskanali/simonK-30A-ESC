@@ -1,0 +1,14 @@
+Change Component Comment : Designator=P1 Old Comment=Header 6 New Comment=ISP
+Added Component: Designator=XT1(XTAL_AWSCR)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=XT1-2
+Added Pin To Net: NetName=NetU1_7 Pin=U1-7
+Added Pin To Net: NetName=NetU1_7 Pin=XT1-1
+Added Net: Name=NetU1_7
+Added Pin To Net: NetName=NetU1_8 Pin=U1-8
+Added Pin To Net: NetName=NetU1_8 Pin=XT1-3
+Added Net: Name=NetU1_8
+Added Member To Class: ClassName=ESC_30A Member=Component XT1 AWSCR-16.00MTD-T
